@@ -1,0 +1,16 @@
+PODS:
+  - WZCGradientView (0.1.0)
+
+DEPENDENCIES:
+  - WZCGradientView (from `../`)
+
+EXTERNAL SOURCES:
+  WZCGradientView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZCGradientView: 5f4353ca495810142b57277dbc7bf41fe0dd170c
+
+PODFILE CHECKSUM: 9f53c6af6fc74fb373d278f8e446da47882463f8
+
+COCOAPODS: 1.9.2

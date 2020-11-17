@@ -1,0 +1,22 @@
+{
+  "name": "WZCGradientView",
+  "version": "0.1.0",
+  "summary": "A short description of WZCGradientView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1244775319@qq.com/WZCGradientView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1244775319@qq.com": "wuchuang@zhibo.tv"
+  },
+  "source": {
+    "git": "https://github.com/1244775319@qq.com/WZCGradientView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZCGradientView/Classes/**/*"
+}

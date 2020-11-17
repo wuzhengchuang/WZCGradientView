@@ -1,0 +1,6 @@
+framework module WZCGradientView {
+  umbrella header "WZCGradientView-umbrella.h"
+
+  export *
+  module * { export * }
+}
